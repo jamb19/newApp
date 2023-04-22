@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "Han",
+            "state": "Look, Kid...",
+            "description": "I´ve got enough on my plate as it is",
+            "image": "avatar-han.png"
+        },
+        {
+            "name": "Luke",
+            "state": "Your thoughts betray you",
+            "description": "I´ve got enough on my plate as it is",
+            "image": "avatar-luke.png"
+        },
+        {
+            "name": "Leia",
+            "state": "hwjbjdsbj...",
+            "description": "I´ve got enough on my plate as it is",
+            "image": "avatar-leia.png"
+        }
+    ]
+}

@@ -17,6 +17,18 @@
             "state": "hwjbjdsbj...",
             "description": "I´ve got enough on my plate as it is",
             "image": "avatar-leia.png"
+        },
+        {
+            "name": "Jesus",
+            "state": "Your thoughts",
+            "description": " my plate as it is",
+            "image": "avatar-luke.png"
+        },
+        {
+            "name": "Alberto",
+            "state": "Your thoughts betray you",
+            "description": "I´ve got enough ",
+            "image": "avatar-luke.png"
         }
     ]
 }
